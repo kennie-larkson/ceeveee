@@ -1,0 +1,41 @@
+
+
+ body{
+    background-color: #EAF6F6;
+}
+
+div#intro, div#education, div#work, div#skills{
+
+    border: 1px dotted #66BFBF;
+    padding: 0px 15px;
+}
+
+img{
+    border: 2px solid #CE2E6C;
+    border-radius: 100px;
+}
+
+h1 {
+    color: #CE2E6C;
+}
+
+h3 {
+    color: #66BFBF;
+}
+
+hr{
+    /*background-color: white;*/
+    height: 0px;
+    width: 30%;
+    border-style:  none;
+    border-top-style: dotted;
+    border-color: #CE2E6C;
+    border-width: 5px;
+    width: 5%;
+    
+    
+}
+
+table, li{
+    color: #1089FF;
+}
